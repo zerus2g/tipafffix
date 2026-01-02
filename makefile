@@ -1,3 +1,4 @@
+export THEOS=/home/vidu/theos
 ARCHS := arm64
 TARGET := iphone:clang:16.5:14.0
 DEBUG = 0
